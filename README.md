@@ -1,33 +1,44 @@
-# Hi, I'm Alex
+# Alex Guseynov
 
-Frontend engineer focused on shipping product UI that is fast, readable, and actually pleasant to use.
+Frontend engineer from Tbilisi, Georgia.
 
-## What I do
-- Build React and TypeScript interfaces
-- Work on design systems, product UI, and complex frontend flows
-- Care about performance, accessibility, and maintainability
-- Prefer small, deliberate iterations over noisy rewrites
+I build product UI that is fast, readable, and easy to maintain. Most of my work lives in React and TypeScript, usually in products where the frontend has real weight: dashboards, workflows, design systems, and UI cleanup that has to hold up in production.
 
-## What I tend to work with
+## What I care about
+
+- Shipping useful UI without making the codebase harder to live with
+- Performance, accessibility, and clean interaction details
+- Design systems that stay practical instead of turning into ceremony
+- Calm, direct collaboration with product and design
+
+## What I usually work on
+
 - React
 - TypeScript
 - Next.js
-- HTML / CSS
-- Design systems
-- Testing
+- HTML and CSS
+- Design systems and component libraries
 - API integration
-- UI performance
+- Testing
+- Frontend architecture and refactoring
 
-## A bit more
-- I like clean architecture, but I care more about shipping than looking clever
-- I work well on products with real constraints and real users
-- I can handle both startup pace and messy legacy code when needed
+## A bit about how I work
 
-## Currently
-- Looking for frontend / product engineering work
-- Open to remote and contract work
+- I prefer small, deliberate changes over noisy rewrites
+- I like products with real constraints and real users
+- I can work through startup pace, messy legacy code, and half-finished ideas when needed
+- I care more about shipping something solid than sounding clever
+
+## What I am open to
+
+- Frontend engineering
+- Product engineering
+- Remote roles
+- Contract work
 
 ## Contact
-- Email: me@alex23.com
+
+- GitHub: [@guseynov](https://github.com/guseynov)
+- Email: [me@alex23.com](mailto:me@alex23.com)
 
 If you want to talk about frontend work, product UI, or design systems, feel free to reach out.
