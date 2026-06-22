@@ -1,6 +1,6 @@
 # Alex Guseynov
 
-Frontend engineer from Tbilisi, Georgia.
+Frontend engineer based in Tbilisi, Georgia.
 
 React, TypeScript, product UI, and design systems.
 
